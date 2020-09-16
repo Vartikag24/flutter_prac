@@ -101,7 +101,7 @@ class _MyAppState extends State<MyApp> {
                 child: Text(
                   "True",
                   style: TextStyle(
-                    fontSize: 22.0,
+                    fontSize: 25.0,
                     color: Colors.black,
                   ),
                 ),
